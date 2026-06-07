@@ -1,6 +1,6 @@
 # Juan Gil Sosa
 
-Technical University Programmer focused on backend systems, integrations and edge-first architectures.
+⚡ Focused on backend systems, integrations and edge-first architectures.
 
 ```txt
 Core Stack     TypeScript · Node.js · Hono
