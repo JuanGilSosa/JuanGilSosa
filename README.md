@@ -1,16 +1,16 @@
-## Hi there 👋
+# Juan Gil Sosa
 
-<!--
-**JuanGilSosa/JuanGilSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical University Programmer focused on backend systems, integrations and edge-first architectures.
 
-Here are some ideas to get you started:
+```txt
+Core Stack     TypeScript · Node.js · Hono
+Edge           Cloudflare Workers · Pages
+Data           Neon · PostgreSQL · Drizzle
+Frontend       React · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning       Go
+
+Experience     SQL Server · Docker
+
+AI Workflow    Claude Code · Opencode · Pi · MCPs 
+```
