@@ -1,6 +1,8 @@
 # Juan Gil Sosa
-Soy Juan, un placer que vengas a visitar mi perfil de GitHub
-⚡ Hago focus en sistemas backend, integracione y arquitecturas en el edge.
+
+Soy Juan, un placer que vengas a visitar mi perfil de GitHub.
+
+⚡ Hago focus en sistemas backend, integracion y arquitecturas en el edge.
 
 ```txt
 Core Stack     TypeScript · Node.js · Hono
