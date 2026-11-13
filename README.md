@@ -16,14 +16,13 @@ Experience     SQL Server · Docker
 
 AI Workflow    Claude Code · Opencode · Pi · MCPs 
 ```
-
+<hr/>
 <div align="center">
-
-<img src="docs/assets/brand/rose.png" alt="" />
-
-<br/>
-<h3>Laburo con Gentle-AI</h3>
+<h3>Uso Gentle-AI como parte del flujo técnico</h3>
 <a href="https://github.com/Gentleman-Programming/gentle-ai">
-  <img width="56" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/rose.png" alt="Built with Gentle-AI" />
+  <img width="112" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/rose.png" alt="Built with Gentle-AI" />
 </a>
+<br>
+<br>
 </div>
+<hr/>
